@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/joinclubs.logo.png" alt="JoinClubs logo" width="260" />
+<img src="joinclubs.logo.png" alt="JoinClubs logo" width="260" />
 
 # JoinClubs
 
